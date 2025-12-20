@@ -133,8 +133,10 @@ Power BI Dashboard Design
 Insight Generation & Storytelling
 
 
-📎 Dashboard Preview
-(Insert your dashboard image here in GitHub) 
+📎 Dashboard Preview 
+<img width="1190" height="659" alt="Screenshot 2025-11-10 141850" src="https://github.com/user-attachments/assets/289b2d0a-7bb5-4ca9-9cc2-70993affe267" />
+
+
 
 
 📬 Contact
