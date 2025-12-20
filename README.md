@@ -139,8 +139,11 @@ Insight Generation & Storytelling
 
 📬 Contact
 Joshua Ekpa
+
 📧 Email: joshuaekpa5@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
+
 💻 GitHub: https://github.com/JoshuaEkpa
 
 
