@@ -1,7 +1,7 @@
 # Walmart_Sales
 This research investigates sales and revenue dynamics within a large-scale retail environment using Walmart transactional data spanning the period 2020–2025. The study aims to demonstrate how business intelligence and exploratory data analytics can be applied to uncover revenue trends, performance drivers, and customer behavior patterns
 
-
+_________________________________________________________________________________________________________________________
 
 
 📌Project Overview 
@@ -9,7 +9,7 @@ This project presents an end-to-end sales and revenue analysis of Walmart (2020�
 The dashboard provides a clear overview of Walmart’s operational performance across multiple dimensions such as time, products, departments, states, customers, and payment methods. 
 
 
-
+________________________________________________________________________________________________________________________
 🎯 Objectives
 The key objectives of this analysis are to:
 
@@ -24,7 +24,7 @@ The key objectives of this analysis are to:
 ✨Examine payment method preferences
 Provide actionable business insights and recommendations 
 
-
+____________________________________________________________________________________________________________________________
 
 🗂️ Dataset Description
 
@@ -46,7 +46,7 @@ The dataset contains Walmart transactional sales records with the following attr
 
 ✨ Customer Count
 
-
+___________________________________________________________________________________________________________________________
 
 🛠️ Tools & Technologies 
 
@@ -54,24 +54,23 @@ The dataset contains Walmart transactional sales records with the following attr
 
 ✨Microsoft Excel – Data cleaning, preprocessing, and validation
 
-
+_________________________________________________________________________________________________________________________
 📊 Key Dashboard KPIs
 
-✨Metric
+Metric
+Value
 
-✨Value
+✨Total Revenue ---------------> $175,117.01
 
-✨Total Revenue $175,117.01
+✨Total Products ---------------> 150 
 
-✨Total Products 150
+✨Number of States ---------------> 46
 
-✨Number of States 46
+✨Number of Towns ---------------> 148
 
-✨Number of Towns 148
+✨Number of Customers ---------------> 150
 
-✨Number of Customers 150
-
-
+_________________________________________________________________________________________________________________________ 
 
 📈 Analysis & Insights 
 
@@ -79,11 +78,13 @@ The dataset contains Walmart transactional sales records with the following attr
 Revenue showed a steady increase from 2020 to 2022, peaking in 2022 ($31,410.17).
 A decline was observed in 2023 and 2024, indicating possible market or operational challenges.
 Revenue rebounded in 2025, suggesting recovery and improved performance strategies. 
+______________________________________________________________________________________________________________________
 
 2️⃣ Product Performance
 Product sales varied significantly across years.
 Certain product categories recorded consistent growth, while others were highly seasonal.
 Product diversity contributed positively to overall revenue stability.
+____________________________________________________________________________________________________________________
 
 3️⃣ Departmental Revenue Contribution
 Electronics generated the highest revenue contribution (~49%).
@@ -92,17 +93,20 @@ Home & Garden
 Clothing
 Grocery
 Automotive and Health & Beauty showed lower but stable contributions.
+______________________________________________________________________________________________________________________
 
 4️⃣ Customer Demographics
 Male customers accounted for approximately 57% of total revenue.
 Female customers contributed about 43%, indicating a fairly balanced customer base.
 Gender-based insights can guide targeted marketing strategies.
+_______________________________________________________________________________________________________________________
 
 5️⃣ Geographical Performance
 States such as Washington, Utah, Virginia, and Wisconsin recorded the highest revenues.
 Sales concentration in specific states suggests opportunities for:
 Regional promotions
 Expansion into underperforming locations
+_______________________________________________________________________________________________________________________ 
 
 6️⃣ Payment Method Analysis
 Mobile Payments generated the highest revenue (~$30.17K).
@@ -111,6 +115,7 @@ Credit Cards
 Cash
 Debit Cards
 Indicates a growing preference for digital payment methods.
+________________________________________________________________________________________________________________________ 
 
 📌 Business Recommendations 
 
@@ -124,6 +129,7 @@ Indicates a growing preference for digital payment methods.
 
 📊 Continuously monitor revenue dips to quickly address operational inefficiencies. 
 
+____________________________________________________________________________________________________________________________
 
 🚀 Skills Demonstrated
 Data Cleaning & Transformation
@@ -132,6 +138,7 @@ Business Intelligence Reporting
 Power BI Dashboard Design
 Insight Generation & Storytelling
 
+_______________________________________________________________________________________________________________________________
 
 📎 Dashboard Preview 
 <img width="1190" height="659" alt="Screenshot 2025-11-10 141850" src="https://github.com/user-attachments/assets/289b2d0a-7bb5-4ca9-9cc2-70993affe267" />
