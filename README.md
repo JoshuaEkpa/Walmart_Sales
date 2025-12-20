@@ -1,4 +1,4 @@
-# Walmart_Sales
+# Walmart_Sales Revenue_Analyis (2020-2025)
 This research investigates sales and revenue dynamics within a large-scale retail environment using Walmart transactional data spanning the period 2020–2025. The study aims to demonstrate how business intelligence and exploratory data analytics can be applied to uncover revenue trends, performance drivers, and customer behavior patterns
 
 _________________________________________________________________________________________________________________________
@@ -10,144 +10,68 @@ The dashboard provides a clear overview of Walmart’s operational performance a
 
 
 ________________________________________________________________________________________________________________________
-🎯 Objectives
+
+🎯Business Objectives
 The key objectives of this analysis are to:
-
-✨Analyze total revenue trends from 2020 to 2025 
-
-✨Identify top-performing products and departments 
-
-✨Evaluate customer demographics and purchasing behavior
-
-✨ Assess state and town-level sales performance 
-
-✨Examine payment method preferences
-Provide actionable business insights and recommendations 
+1. Analyze total revenue trends from 2020 to 2025 
+2. Identify top-performing products and departments 
+3. Evaluate customer demographics and purchasing behavior
+4. Assess state and town-level sales performance 
+5. Examine payment method preferences
+6. Deliver actionable business insights and recommendations 
 
 ____________________________________________________________________________________________________________________________
 
-🗂️ Dataset Description
-
-The dataset contains Walmart transactional sales records with the following attributes:
-
-✨ Year (2020–2025)
-
-✨Product Name
-
-✨Department
- 
-✨Revenue
-
-✨Customer Gender
-
-✨State & Town
-
-✨Payment Method
-
-✨ Customer Count
-
-___________________________________________________________________________________________________________________________
 
 🛠️ Tools & Technologies 
-
-✨Microsoft Power BI – Data modeling, visualization, and dashboard creation
-
-✨Microsoft Excel – Data cleaning, preprocessing, and validation
+1. Microsoft Power BI – Data modeling, visualization, and dashboard creation
+2. Microsoft Excel – Data cleaning, preprocessing, and validation
 
 _________________________________________________________________________________________________________________________
+
 📊 Key Dashboard KPIs
-
-Metric
-Value
-
-✨Total Revenue ---------------> $175,117.01
-
-✨Total Products ---------------> 150 
-
-✨Number of States ---------------> 46
-
-✨Number of Towns ---------------> 148
-
-✨Number of Customers ---------------> 150
+1. Total Revenue ---------------> $175,117.01
+2. Total Products ---------------> 150 
+3. Number of States ---------------> 46
+4. Number of Towns ---------------> 148
+5. Number of Customers ---------------> 150
 
 _________________________________________________________________________________________________________________________ 
 
 📈 Analysis & Insights 
+1. Revenue peaked in 2022 ($31,410.17), followed by a declined in 2023 - 2024 and recovery in 2025
+2. Electronics contributed the highest share of department revenue (~49%)
+3. Mlae customers generated ~57%of the total revenue.
+4. Washington, Utah, Birginal, and Wisconsin were top-perfoming states
+5. Mobile payment were the most preferred payment method 
 
-1️⃣ Revenue Trend Analysis (2020–2025)
-Revenue showed a steady increase from 2020 to 2022, peaking in 2022 ($31,410.17).
-A decline was observed in 2023 and 2024, indicating possible market or operational challenges.
-Revenue rebounded in 2025, suggesting recovery and improved performance strategies. 
-______________________________________________________________________________________________________________________
-
-2️⃣ Product Performance
-Product sales varied significantly across years.
-Certain product categories recorded consistent growth, while others were highly seasonal.
-Product diversity contributed positively to overall revenue stability.
-____________________________________________________________________________________________________________________
-
-3️⃣ Departmental Revenue Contribution
-Electronics generated the highest revenue contribution (~49%).
-Other strong departments include:
-Home & Garden
-Clothing
-Grocery
-Automotive and Health & Beauty showed lower but stable contributions.
-______________________________________________________________________________________________________________________
-
-4️⃣ Customer Demographics
-Male customers accounted for approximately 57% of total revenue.
-Female customers contributed about 43%, indicating a fairly balanced customer base.
-Gender-based insights can guide targeted marketing strategies.
-_______________________________________________________________________________________________________________________
-
-5️⃣ Geographical Performance
-States such as Washington, Utah, Virginia, and Wisconsin recorded the highest revenues.
-Sales concentration in specific states suggests opportunities for:
-Regional promotions
-Expansion into underperforming locations
-_______________________________________________________________________________________________________________________ 
-
-6️⃣ Payment Method Analysis
-Mobile Payments generated the highest revenue (~$30.17K).
-Followed closely by:
-Credit Cards
-Cash
-Debit Cards
-Indicates a growing preference for digital payment methods.
-________________________________________________________________________________________________________________________ 
+__________________________________________________________________________________________________________________________ 
 
 📌 Business Recommendations 
-
-📈 Invest more in high-performing departments such as Electronics and Home & Garden.
-
-📍 Strengthen operations in top-performing states while improving marketing in low-performing regions.
-
-💳 Expand digital payment incentives to encourage mobile and card transactions.
-
-👥 Implement gender-focused promotions to balance customer revenue contribution.
-
-📊 Continuously monitor revenue dips to quickly address operational inefficiencies. 
+1. Invest more in high-performing departments such as Electronics and Home & Garden.
+2. Strengthen operations in top-performing states while improving marketing in low-performing regions.
+3. Expand digital payment incentives to encourage mobile and card transactions.
+4. Implement gender-focused promotions to balance customer revenue contribution.
+5. Continuously monitor revenue dips to quickly address operational inefficiencies. 
 
 ____________________________________________________________________________________________________________________________
 
-🚀 Skills Demonstrated
-Data Cleaning & Transformation
-Exploratory Data Analysis (EDA)
-Business Intelligence Reporting
-Power BI Dashboard Design
-Insight Generation & Storytelling
-
-_______________________________________________________________________________________________________________________________
 
 📎 Dashboard Preview 
 <img width="1190" height="659" alt="Screenshot 2025-11-10 141850" src="https://github.com/user-attachments/assets/289b2d0a-7bb5-4ca9-9cc2-70993affe267" />
 
+______________________________________________________________________________________________________________________________ 
+
+Dashboard For Product Sales 
+<img width="1190" height="666" alt="Sales Percetage Screenshot 2025-12-20 171500" src="https://github.com/user-attachments/assets/76268281-aed9-4160-bc40-7b8acd8e1b32" /> 
+
+
+_____________________________________________________________________________________________________________________________ 
 
 
 
 📬 Contact
-Joshua Ekpa
+📊 Joshua Ekpa Data Analyst
 
 📧 Email: joshuaekpa5@gmail.com
 
