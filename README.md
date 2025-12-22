@@ -22,6 +22,18 @@ The key objectives of this analysis are to:
 
 ____________________________________________________________________________________________________________________________
 
+📊 DATASET
+   Column Name                        Description  
+1. Year                               Transaction Year (2020 - 2025) 
+2. Product_Name                       Product identifier (150 products)
+3. Department                         Product department
+4. State                              Customer state 
+5. Town                               Customer town 
+6. Customer_Gender                    Male / Female
+7. Payment_Method                     Mobile, Credit Card, Debit Card, Cash
+8. Revenue                            Sales revenue amount
+
+____________________________________________________________________________________________________________________________
 
 🛠️ Tools & Technologies 
 1. Microsoft Power BI – Data modeling, visualization, and dashboard creation
@@ -46,6 +58,11 @@ ________________________________________________________________________________
 5. Mobile payment were the most preferred payment method 
 
 __________________________________________________________________________________________________________________________ 
+
+📊 Conclusion
+Walmart experienced steady revenue growth from 2020 to 2022, reaching its peak in 2022, which reflects strong market demand and effective operational strategies during that period. However, the decline observed in 2023 and 2024 indicates possible external pressures such as economic conditions, changing consumer behavior, or operational challenges. The slight recovery in 2025 suggests early signs of stabilization.
+
+_________________________________________________________________________________________________________________________ 
 
 📌 Business Recommendations 
 1. Invest more in high-performing departments such as Electronics and Home & Garden.
