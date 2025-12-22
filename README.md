@@ -4,7 +4,8 @@ This research investigates sales and revenue dynamics within a large-scale retai
 _________________________________________________________________________________________________________________________
 
 
-📌Project Overview 
+📌Project Overview  
+
 This project presents an end-to-end sales and revenue analysis of Walmart (2020–2025) using an interactive Power BI dashboard. The analysis focuses on revenue trends, customer behavior, product performance, geographical distribution, and payment preferences to support data-driven business decisions.
 The dashboard provides a clear overview of Walmart’s operational performance across multiple dimensions such as time, products, departments, states, customers, and payment methods. 
 
