@@ -12,7 +12,8 @@ The dashboard provides a clear overview of Walmart’s operational performance a
 
 ________________________________________________________________________________________________________________________
 
-🎯Business Objectives
+🎯Business Objectives 
+
 The key objectives of this analysis are to:
 1. Analyze total revenue trends from 2020 to 2025 
 2. Identify top-performing products and departments 
