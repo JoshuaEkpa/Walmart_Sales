@@ -1,4 +1,14 @@
 # Walmart_Sales Revenue_Analyis (2020-2025)
+
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/1b1f4ee4-5f4d-4fac-b898-556211dd8173" />
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________
+
 This research investigates sales and revenue dynamics within a large-scale retail environment using Walmart transactional data spanning the period 2020–2025. The study aims to demonstrate how business intelligence and exploratory data analytics can be applied to uncover revenue trends, performance drivers, and customer behavior patterns
 
 _________________________________________________________________________________________________________________________
