@@ -65,7 +65,7 @@ ________________________________________________________________________________
 📈 Analysis & Insights 
 1. Revenue peaked in 2022 ($31,410.17), followed by a declined in 2023 - 2024 and recovery in 2025
 2. Electronics contributed the highest share of department revenue (~49%)
-3. Mlae customers generated ~57%of the total revenue.
+3. Male customers generated ~57%of the total revenue.
 4. Washington, Utah, Birginal, and Wisconsin were top-perfoming states
 5. Mobile payment were the most preferred payment method 
 
