@@ -35,7 +35,9 @@ The key objectives of this analysis are to:
 ____________________________________________________________________________________________________________________________
 
 📊 DATASET
-   Column Name                        Description  
+
+   Column Name --------->             Description  
+   
 1. Year                               Transaction Year (2020 - 2025) 
 2. Product_Name                       Product identifier (150 products)
 3. Department                         Product department
@@ -63,6 +65,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________ 
 
 📈 Analysis & Insights 
+
 1. Revenue peaked in 2022 ($31,410.17), followed by a declined in 2023 - 2024 and recovery in 2025
 2. Electronics contributed the highest share of department revenue (~49%)
 3. Male customers generated ~57%of the total revenue.
