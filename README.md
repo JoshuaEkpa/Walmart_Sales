@@ -36,16 +36,16 @@ ________________________________________________________________________________
 
 📊 DATASET
 
-   Column Name --------->             Description  
+   Column Name --------->                        Description  
    
-1. Year                               Transaction Year (2020 - 2025) 
-2. Product_Name                       Product identifier (150 products)
-3. Department                         Product department
-4. State                              Customer state 
-5. Town                               Customer town 
-6. Customer_Gender                    Male / Female
-7. Payment_Method                     Mobile, Credit Card, Debit Card, Cash
-8. Revenue                            Sales revenue amount
+1. Year           --------->                     Transaction Year (2020 - 2025) 
+2. Product_Name   --------->                     Product identifier (150 products)
+3. Department     --------->                     Product department
+4. State          --------->                     Customer state 
+5. Town           --------->                     Customer town 
+6. Customer_Gender--------->                     Male / Female
+7. Payment_Method --------->                     Mobile, Credit Card, Debit Card, Cash
+8. Revenue        --------->                     Sales revenue amount
 
 ____________________________________________________________________________________________________________________________
 
