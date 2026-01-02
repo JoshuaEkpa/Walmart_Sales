@@ -91,7 +91,7 @@ ________________________________________________________________________________
 
 
 📎 Dashboard Preview 
-<img width="1190" height="659" alt="Screenshot 2025-11-10 141850" src="https://github.com/user-attachments/assets/289b2d0a-7bb5-4ca9-9cc2-70993affe267" />
+<img width="1190" height="659" alt="Screenshot 2025-11-10 141850" src="https://github.com/user-attachments/assets/289b2d0a-7bb5-4ca9-9cc2-70993affe267" /> 
 
 ______________________________________________________________________________________________________________________________ 
 
@@ -105,14 +105,13 @@ Let's Dive Into The World Of DATA
 
 _________________________________________________________________________________________________________________________________
 
-📬 Contact
-📊 Joshua Ekpa Data Analyst
-
+👤 Author
+Joshua Ekpa
+Data Analyst | Excel | Power BI | SQL | Business Intelligence
+📬 Contact: +234 816 778 7222
 📧 Email: joshuaekpa5@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
-
-💻 GitHub: https://github.com/JoshuaEkpa
+🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
 
 
 
