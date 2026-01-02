@@ -106,7 +106,7 @@ Let's Dive Into The World Of DATA
 _________________________________________________________________________________________________________________________________
 
 👤 Author
-Joshua Ekpa
+Joshua Ekpah
 Data Analyst | Excel | Power BI | SQL | Business Intelligence
 📬 Contact: +234 816 778 7222
 📧 Email: joshuaekpa5@gmail.com
