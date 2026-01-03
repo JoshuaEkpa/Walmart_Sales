@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 Walmart experienced steady revenue growth from 2020 to 2022, reaching its peak in 2022, which reflects strong market demand and effective operational strategies during that period. However, the decline observed in 2023 and 2024 indicates possible external pressures such as economic conditions, changing consumer behavior, or operational challenges. The slight recovery in 2025 suggests early signs of stabilization.
 
-_________________________________________________________________________________________________________________________ 
+________________________________________________________________________________________________________________________ 
 
 📌 Business Recommendations 
 1. Invest more in high-performing departments such as Electronics and Home & Garden.
